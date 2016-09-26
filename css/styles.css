@@ -112,9 +112,6 @@ li {
   margin: 5px;
 }
 #color {
-  position: absolute;
-  top: 25%;
-  left: 25%;
   max-width:50%;
   border: solid black 5px;
 }
