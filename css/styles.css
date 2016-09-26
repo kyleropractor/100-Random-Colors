@@ -116,7 +116,6 @@ li {
   top: 50%;
   left: 50%;
   max-width:75%;
-  float: center;
   border: solid black 5px;
 }
 span {
