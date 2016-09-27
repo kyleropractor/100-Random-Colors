@@ -112,8 +112,9 @@ li {
   margin: 5px;
 }
 #color {
-  max-width:50%;
+  max-width:60%;
   border: solid black 5px;
+  border-radius: 30px;
 }
 span {
   color: red;
